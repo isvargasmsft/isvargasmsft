@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @isvargasmsft, a product manager at Microsoft Graph DevX team. From Costa Rica 🇨🇷 🌋🏖️
-- 👀 I’m interested in science, communication, innovation and design.
+- 👋 Hi, I’m @isvargasmsft, a product manager at Microsoft Copilot DevX team. From Costa Rica 🇨🇷 🌋🏖️
+- 👀 I’m interested in science, mental health, innovation and design.
 - 📫 You can reach out by sending an email to isvargas@microsoft.com
 
 
